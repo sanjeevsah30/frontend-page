@@ -1,0 +1,104 @@
+.intro
+{
+	text-align: center;
+	font-family: serif;
+	color: white;
+	padding: 0px;
+	
+}
+
+.jumbotron
+{
+background-image: url("https://files.123freevectors.com/wp-content/original/167289-dark-green-distressed-polygon-pattern-background-image.jpg");
+background-size: cover;
+ background-repeat: no-repeat;
+   padding-top: 120px ;
+  padding-bottom: 120px;
+
+  
+ 
+
+
+}
+
+.picture
+{
+text-align : center;
+padding-bottom:0%;
+font-size: 35px;
+font-family: serif;
+color: rgb(89, 89, 89);
+font-weight: bolder;
+margin-top: -125px;
+ 
+
+
+
+}
+
+.img-fluid {
+  max-width: 15%;
+  height: auto;
+  padding-left: auto;
+  padding-right: auto;
+}
+.post
+{ border: 4px solid;
+	
+	border-radius: 35px;
+ 
+	font-size: 30px;
+	font-weight: 900;
+	padding-top: 20px;
+	padding-bottom: 2px;
+	padding-left: 50px;
+	padding-right: 50px;
+	display: inline-block;
+	 font-family: 'Bree Serif';
+	margin-bottom: 20px;
+   	box-shadow: 20px 0 rgb(153, 153, 153);
+   	border-left-width:7px ;
+   
+    
+   	
+  border-right-width: 7px;
+                  
+}
+
+.about
+{
+	border: 1.5px solid;
+	margin-left: auto;
+	border-radius: 35px;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 2px;
+		padding-left: 50px;
+	padding-right: 50px;
+	display: inline-block;
+	font-family: serif;
+	margin: auto;
+	
+	box-shadow: 20px 0 rgb(153, 153, 153);
+	border-left-width: 7px;
+  border-right-width: 7px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.postheading{
+	font-family: serif;
+	font-weight: 150;
+	font-size: 35px;
+}
+
+.abtheading{
+	font-family: serif;
+	font-weight:150;
+	font-size: 35px;
+}
+
+
+
